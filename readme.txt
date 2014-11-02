@@ -1,4 +1,4 @@
-=== Custom Fields as Meta Tags ===
+=== WooCommerce Variation Sorting in Admin ===
 Contributors: jawaid
 Donate link: http://www.ibexofts.tk
 Tags: woocommerce, variation, sorting, admin
@@ -12,7 +12,7 @@ It sorts WooCommerce products variations in admin by variation ID.
 
 == Description ==
 
-It sorts WooCommerce products variations in admin by variation ID.
+WordPress/WooCommerce plugin to sort WooCommerce products variations in admin by variation ID.
 
 == Installation ==
 
