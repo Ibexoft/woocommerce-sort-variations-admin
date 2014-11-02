@@ -1,18 +1,18 @@
 === Custom Fields as Meta Tags ===
 Contributors: jawaid
 Donate link: http://www.ibexofts.tk
-Tags: custom, field, custom field, meta, tag, meta tag
+Tags: woocommerce, variation, sorting, admin
 Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 0.1
+Tested up to: 4.0
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Sorts variations in admin by id.
+It sorts WooCommerce products variations in admin by variation ID.
 
 == Description ==
 
-Sorts variations in admin by id.
+It sorts WooCommerce products variations in admin by variation ID.
 
 == Installation ==
 
